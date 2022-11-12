@@ -6,7 +6,7 @@
 
 + 像这种通过发送请求获取服务器资源的Web浏览器等，都可以称为客户端（client）。
 
-  ![image-20221112232321493](C:\Users\MYW\AppData\Roaming\Typora\typora-user-images\image-20221112232321493.png)
++ ![image-20221112232321493](https://user-images.githubusercontent.com/77344562/201483964-d34de937-0d4f-40ec-b369-1861f31e70e8.png)
 
 + Web使用一种名为HTTP（HyperText Transfer Protocol，超文本传输协议）的协议作为规范，完成从客户端到服务器端等一系列运作流程。而协议是指规则的约定。可以说，==Web是建立在HTTP协议上通信的==。
 
