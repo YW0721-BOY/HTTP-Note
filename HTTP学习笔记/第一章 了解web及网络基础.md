@@ -57,7 +57,7 @@
 
 + 计算机与网络设备要相互通信，双方就必须基于相同的方法。比如，如何探测到通信目标、由哪一边先发起通信、使用哪种语言进行通信、怎样结束通信等规则都需要事先确定。不同的硬件、操作系统之间的通信，所有的这一切都需要一种规则。而我们就把这种规则称为协议（protocol）。
 
-![](https://github.com/YW0721-BOY/HTTP-Note/tree/main/img/1.3.1_1.jpg)
+![](https:\\github.com\YW0721-BOY\HTTP-Note\tree\main\img\1.3.1_1.jpg)
 
 > 图：TCP/IP是互联网相关的各类协议族的总称
 
